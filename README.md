@@ -1,3 +1,11 @@
+# Wheelie for XOXO
+
+This is an adapation of [WeAllJS](http://wealljs.org)'s [Wheelie Slack app](https://github.com/WeAllJS/wheelie-slack-app).
+
+The /mods command replaces /admin to keep in line with XOXO's terminology, and the bot's text has been updated for how XOXO's Slack instance uses private channels. XOXO does not use the signup part of the bot.
+
+The original README is below:
+
 # Wheelie
 
 Wheelie is a [Slack App](http://slack.com/apps) originally written for
